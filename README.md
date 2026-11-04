@@ -17,7 +17,7 @@ Cílem práce bylo zjistit, zda se volný pád v Minecraftu řídí reálnými f
 
 ---
 
-## 🛠️ Použité technologie & Nástroje
+## Použité technologie & Nástroje
 - **Sazba dokumentu:** LaTeX
 - **Matematické fitování & grafy:** Wolfram Mathematica / Python
 - **Herní mechaniky pro měření:** Redstone, Command Blocks, In-game tick rate / Daylight cycle
