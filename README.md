@@ -1,0 +1,1 @@
+# stredni-skola-seminarni-projekt
